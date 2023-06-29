@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
-<div align="center" style="text-align: center">
-  <img src = "logo.png">  
+<div align="center" style="text-align: center">  
   <h1><b>Decode a Morse code message</b></h1>
 </div>
 <!-- TABLE OF CONTENTS -->
