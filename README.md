@@ -85,7 +85,7 @@ In order to run this project you need:
 <!-- Example command: -->
 
 ```
-  To have installed PostgreSQL database server
+  There is no prerequisites for this project
 ```
 
 ### Usage
@@ -129,10 +129,14 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 # 👤 **Larry Villegas**
-
 - GitHub: [@LarryIVC](https://github.com/LarryIVC)
 - Twitter: [@LarryVillegas](https://twitter.com/LarryVillegas)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/larryvillegascostas/)
+
+**Carlos Igreda**
+- GitHub: [@CarlosIgreda](https://github.com/CarlosIgreda)
+- Twitter: [@carlosigreda](https://twitter.com/carlosigreda)
+- LinkedIn: [@carlosigreda](https://www.linkedin.com/in/carlosigreda/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
